@@ -57,13 +57,13 @@ The results of the model, including precision, recall, and F1 score, will be dis
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-Steps to contribute
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+Steps to contribute:
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
