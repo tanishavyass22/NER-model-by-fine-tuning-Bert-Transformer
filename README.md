@@ -8,7 +8,7 @@ This repository contains code and resources for a Named Entity Recognition (NER)
 4. Usage
 5. Training
 6. Evaluation
-7.Results
+7. Results
 8. Contributing
 9. License
 
